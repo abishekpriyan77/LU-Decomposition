@@ -9,8 +9,11 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Algorithm
 1.Initialize Matrices 𝐿 and U
+
 2. Decompose Matrix 𝐴
+
 3. Handle Pivoting
+
 4. Verify Decomposition
 
 ## Program:
